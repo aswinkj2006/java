@@ -1,27 +1,22 @@
-Java Practice Collection
-Welcome! 👋
-This repository contains my curated Java programs developed while exploring Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA).
+# Welcome! 👋  
+This repository features my collection of Java programs created during my journey of learning Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA).
 
-🚀 What’s Inside?
-Well-organized Java code examples
+## 🚀 What’s Inside?
+- Well-organized Java code examples
+- Solutions demonstrating key OOP principles
+- Classic and advanced DSA problem solutions
+- Clean, commented code for easy understanding
 
-Solutions covering key OOP principles
+## 💡 Why This Repo?
+Ideal for:
+- Students learning Java fundamentals
+- Interview and placement prep
+- Anyone seeking hands-on DSA + OOP Java practice
 
-Classic and advanced DSA problems
+## 📂 Structure
+All code is neatly organized by topic, making it easy to explore and reuse.
 
-Clean, commented code for easy learning
+---
 
-💡 Why This Repo?
-Perfect for:
-
-Students learning Java fundamentals
-
-Interview and placement preparation
-
-Anyone wanting hands-on DSA + OOP practice
-
-📂 Structure
-All code files are categorized by topic and concept, making it simple to find and reuse as needed.
-
-Feel free to fork or contribute!
+Feel free to fork or contribute!  
 Happy coding! ✨
